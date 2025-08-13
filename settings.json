@@ -1,0 +1,31 @@
+{
+    "screenshot": {
+        "save_directory": "/Users/luzhenxiao/Desktop/Screenshots",
+        "batch_interval": 5,
+        "auto_annotation": true,
+        "font_size": 40,
+        "font_color": "#ff0000"
+    },
+    "player": {
+        "default_volume": 80,
+        "remember_position": true,
+        "default_playback_rate": 1.0
+    },
+    "annotation": {
+        "default_color": "#FF0000",
+        "line_width": 3,
+        "arrow_size": 10
+    },
+    "ui": {
+        "window_geometry": [
+            1644,
+            -1293,
+            1876,
+            1145
+        ],
+        "last_video_directory": "/Users/luzhenxiao/Videos"
+    },
+    "path": {
+        "last_video_dir": "/Users/luzhenxiao/Desktop/【L102 飞象人工智能系统课L2-E04】-成片一稿（余天龙）-2025-08-12"
+    }
+}
